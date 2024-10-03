@@ -23,8 +23,8 @@ Make sure you have the following installed on your system:
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/kanban-react-dnd.git
-cd kanban-react-dnd
+git clone https://github.com/alexandrebfaust/react-dnd-kanban.git
+cd react-dnd-kanban
 ```
 
 ### 2. Install Dependencies
